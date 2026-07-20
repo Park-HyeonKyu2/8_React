@@ -148,6 +148,9 @@ Tailwind 설치
 모두 지우고 @import "tailwindcss" 추가
 
 
+react-icons 라이브러리
+    npm i react-icons
+
 
 
 
